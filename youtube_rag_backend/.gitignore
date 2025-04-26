@@ -1,0 +1,18 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore IDE settings (optional, if you use VS Code etc.)
+.vscode/
+.idea/
+*.swp
+
+# Ignore FAISS index files (optional)
+*.faiss
+*.pkl
